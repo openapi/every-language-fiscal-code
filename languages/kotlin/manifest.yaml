@@ -1,0 +1,9 @@
+language: Kotlin
+family: jvm
+implementation: native
+source:
+  - FiscalCode.kt
+run: ./run.sh
+version_command: echo "$(cat VERSION), running on $(java -version 2>&1 | head -1)"
+authors:
+  - Rahul-pamula

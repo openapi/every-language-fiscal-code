@@ -8,6 +8,7 @@
 | C++ | general-purpose | [`languages/cpp`](languages/cpp) | native |
 | Go | general-purpose | [`languages/go`](languages/go) | native |
 | Java | jvm | [`languages/java`](languages/java) | native |
+| Kotlin | jvm | [`languages/kotlin`](languages/kotlin) | native |
 | JavaScript | scripting | [`languages/javascript`](languages/javascript) | native |
 | Perl | scripting | [`languages/perl`](languages/perl) | native |
 | PHP | scripting | [`languages/php`](languages/php) | native |
